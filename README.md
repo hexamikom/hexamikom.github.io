@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+## Selamat Datang di Halaman FAQ HEXA
 
-You can use the [editor on GitHub](https://github.com/hexamikom/hexamikom.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### FAQ : Apa itu HEXA ?
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+HEXA Merupakan akronim dari kata “Hardware Experiment Amikom” merupakan komunitas yang fokus dalam pengembangan dan penelitian di bidang teknologi hardware seperti mikrokontroller & elektronika.
 
-### Markdown
+### FAQ : 3 kata yang menggambarkan HEXA ?
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+`Hardware`,`Elektronika`,`Kreatif`
 
-```markdown
-Syntax highlighted code block
+### FAQ : Hal apa saja yang dilakukan di HEXA ?
 
-# Header 1
-## Header 2
-### Header 3
+RnD, Mengikuti Kompetisi & Bisnis.
 
-- Bulleted
-- List
+### FAQ : Sedang fokus apa HEXA sekarang ?
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hexamikom/hexamikom.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+`3D Printing`,`Robot Line Follower`,`IoT Development`
