@@ -18,4 +18,4 @@ Riset and Development, Mengikuti Kompetisi & Bisnis.
 
 ### Info pendaftaran
 
-HEXA 2017 Open Recruitment 23 - 25 November 2017 :raised_hands:. Untuk pendaftaran bisa mengikuti link :point_right: [berikut ini](https://goo.gl/9nf77w) dengan login akun email students dan untuk info terbaru & pertanyaan lebih lanjut bisa melalui :point_right: [Instagram.](https://www.instagram.com/hexamikom/)
+HEXA 2017 Open Recruitment COMING SOON! :raised_hands:. Untuk pendaftaran bisa mengikuti link :point_right: [berikut ini](https://goo.gl/9nf77w) dengan login akun email students dan untuk info terbaru & pertanyaan lebih lanjut bisa melalui :point_right: [Instagram.](https://www.instagram.com/hexamikom/)
